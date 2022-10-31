@@ -1,0 +1,29 @@
+.locationWeather {
+  margin: 1rem;
+  padding: 1rem;
+  padding-right: 5rem;
+  display: inline-block;
+  border: 1px solid gray;
+}
+input {
+  border: none;
+  border-bottom: 1px solid grey;
+  outline: none;
+}
+
+button {
+  margin-top: 2rem;
+  display: block;
+  border: none;
+  color: #3f51b5;
+  background: none;
+}
+
+.removeBtn {
+  margin-top: 2rem;
+  display: block;
+  border: none;
+  color: #3f51b5;
+  background: none;
+  cursor: pointer;
+}

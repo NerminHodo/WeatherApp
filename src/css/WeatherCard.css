@@ -1,0 +1,9 @@
+.weather {
+  display: flex;
+  flex-wrap: wrap;
+}
+.addButton {
+  position: absolute;
+  bottom: 20%;
+  right: 20%;
+}

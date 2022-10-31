@@ -1,0 +1,41 @@
+.card {
+  display: flex;
+  margin: 1rem;
+  padding: 1rem;
+  min-width: 20rem;
+}
+
+.city-flag {
+  display: flex;
+  justify-content: space-around;
+}
+
+.weather-stats {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+img {
+  height: fit-content;
+  width: 50px;
+}
+
+.wind {
+  display: flex;
+  align-items: center;
+}
+
+.windArrow {
+  font-size: 25px;
+  margin-left: 5px;
+}
+
+p {
+  margin-top: 2rem;
+  display: block;
+  border: none;
+  color: #3f51b5;
+  background: none;
+  cursor:default
+}
